@@ -1,0 +1,7 @@
+DSM-5 Computação em Nuvem
+Gabriel Nobre
+Gustavo Lemos
+Kalebe Menezes
+Lucas Neves
+Nicolas da Silva
+Link: https://app-purpuzure.jollycoast-f820aef3.eastus.azurecontainerapps.io
