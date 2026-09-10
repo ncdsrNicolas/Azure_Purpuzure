@@ -3,8 +3,9 @@ Gabriel Nobre, Gustavo, Kalebe, Lucas Henrique Neves, Nicolas - DSM 5
 
 # Link
 
-# Criar e Deletar o Terraform
-´´´
+## Criar e Deletar o Terraform
+
+´´´bash
 # Criar
 
 .\terraform.exe apply -auto-approve
